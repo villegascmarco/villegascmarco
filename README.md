@@ -15,7 +15,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/villegascmarco/villegascmarco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villegascmarco&hide=html,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villegascmarco&hide=html,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&exclude_repo=myspa-modelo,InterfazJavaFX,my-spa,myspa-login-android,conversor-monetario-android,EasyPCMovil,android-studio-projects,compra-venta-android" />
 </a>
 <a href="https://github.com/villegascmarco/villegascmarco">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=villegascmarco&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
