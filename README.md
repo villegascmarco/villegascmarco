@@ -6,17 +6,16 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/villegascmarco/villegascmarco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villegascmarco&hide=html,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&exclude_repo=myspa-modelo,InterfazJavaFX,my-spa,myspa-login-android,conversor-monetario-android,EasyPCMovil,android-studio-projects,compra-venta-android" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villegascmarco&hide=html,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&exclude_repo=myspa-modelo,InterfazJavaFX,my-spa,myspa-login-android,conversor-monetario-android,EasyPCMovil,android-studio-projects,compra-venta-android,login,rookie-coffee-front" />
 </a>
 <a href="https://github.com/villegascmarco/villegascmarco">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=villegascmarco&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
